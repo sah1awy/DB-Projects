@@ -90,26 +90,3 @@ select * from CovidVaccinations
  )select * , (RollingPeopleVaccinated / Population) * 100 as Perc
  from PopvsVac
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,5 +1,5 @@
 -- Data For Tableau 
-
+-- Dashboard Link  https://public.tableau.com/app/profile/ahmed.mahmoud1525/viz/CovidDashboard_17095474403490/Dashboard1
 select * from CovidDeaths;
 
 
